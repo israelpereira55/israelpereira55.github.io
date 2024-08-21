@@ -1,15 +1,14 @@
 
 ## _About me_
 
-<p align="justify">
-A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF. 
+<p align="justify">A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF.</p>
 
-I work mostly with meta-heuristic and optimization algorithms. I also enjoy computer vision and have done some work combining optimization to create real-time applications using neural networks such as YoLo and EfficientNet and tracking. 
+<p align="justify">I work mostly with meta-heuristic and optimization algorithms. I also enjoy computer vision and have done some work combining optimization to create real-time applications using neural networks such as YoLo and EfficientNet and tracking.</p>
 
-As an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications. 
+<p align="justify">As an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications.</p>
 
-I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).
-</p>
+<p align="justify">I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
+
 
 ## _Academic papers_
 
