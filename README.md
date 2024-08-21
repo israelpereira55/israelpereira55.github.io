@@ -1,112 +1,11 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+# _About me_
 
+A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF. I work mostly with Meta-heuristic and optimization algorithms. I also enjoy computer vision and have done some work combining optimization to create real-time applications using neural networks such as YoLo and EfficientNet and tracking. As an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications. I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, you can download them =).
 
-There should be whitespace between paragraphs.
+## _Academic papers_
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem." Swarm and Evolutionary Computation 77 (2023): 101245.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Souza, Israel Pereira, et al. "A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem." International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
+[Download]()
