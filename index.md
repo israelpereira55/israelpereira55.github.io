@@ -13,11 +13,14 @@ I mostly use C, C++, and Python. Here are also my papers, and if they are out of
 ## _Academic papers_
 
 > A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.
-* Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "**A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.**" Swarm and Evolutionary Computation 77 (2023): 101245.
+
+* Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem." Swarm and Evolutionary Computation 77 (2023): 101245.
 [Article](https://www.sciencedirect.com/science/article/pii/S2210650223000196).
 
 
-* Souza, Israel Pereira, et al. "**A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem.**" International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
+> A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem
+
+* Souza, Israel Pereira, et al. "A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem." International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
 [Article](https://link.springer.com/chapter/10.1007/978-3-031-10562-3_7).
 [Manuscript](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/MDVRP_ICCSA_2022_LNCS.pdf).
 
