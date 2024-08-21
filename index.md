@@ -12,6 +12,7 @@ I mostly use C, C++, and Python. Here are also my papers, and if they are out of
 
 ## _Academic papers_
 
+> A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.
 * Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "**A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.**" Swarm and Evolutionary Computation 77 (2023): 101245.
 [Article](https://www.sciencedirect.com/science/article/pii/S2210650223000196).
 
