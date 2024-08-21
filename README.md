@@ -1,5 +1,5 @@
 
-# About me
+## _About me_
 
 A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF. 
 
