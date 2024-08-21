@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Hello, I'm Israel.
-description: <p><i>I'm a researcher and a programmer. Here are some of my works.</i></p>
+description: <p> <i>I'm a researcher and a programmer. Here are some of my works.</i> </p>
 date: 2024-08-21
