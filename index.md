@@ -12,11 +12,11 @@
 
 ## _Academic papers_
 
-* Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "**A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.**" Swarm and Evolutionary Computation 77 (2023): 101245.
-[Article](https://www.sciencedirect.com/science/article/pii/S2210650223000196).
+* <p align="justify">Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "**A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.**" Swarm and Evolutionary Computation 77 (2023): 101245.
+[Article](https://www.sciencedirect.com/science/article/pii/S2210650223000196).</p>
 
 
-* Souza, Israel Pereira, et al. "**A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem.**" International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
+* <p align="justify">Souza, Israel Pereira, et al. "**A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem.**" International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
 [Article](https://link.springer.com/chapter/10.1007/978-3-031-10562-3_7).
-[Manuscript](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/MDVRP_ICCSA_2022_LNCS.pdf).
+[Manuscript](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/MDVRP_ICCSA_2022_LNCS.pdf).</p>
 
