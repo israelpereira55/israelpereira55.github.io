@@ -17,20 +17,21 @@
 > Federal Fluminense University
 
 
-> **Master of Computer Science** 2020-2022
-> 
-> Federal University of Espírito Santo
-> 
-> Thesis: A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem with Time Windows
-> 
-> [Download](https://repositorio.ufes.br/server/api/core/bitstreams/bc535170-c0ac-4cfd-93a0-8ee2114e5cf5/content).
-> [Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/2022-thesis.pdf).
+**Master of Computer Science** 2020-2022
+
+Federal University of Espírito Santo
+
+Thesis: A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem with Time Windows.
+
+[Download](https://repositorio.ufes.br/server/api/core/bitstreams/bc535170-c0ac-4cfd-93a0-8ee2114e5cf5/content).
+[Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/2022-thesis.pdf).
 
 
-> **Bachelors of Science in Computer Science** 2015-2019
-> 
-> Federal University of Espírito Santo
-> Thesis: Um algoritmo baseado em Evolução Diferencial com Busca Local para o Problema de Roteamento de Veículos Capacitados
+**Bachelors of Science in Computer Science** 2015-2019
+
+Federal University of Espírito Santo
+
+Thesis: Um algoritmo baseado em Evolução Diferencial com Busca Local para o Problema de Roteamento de Veículos Capacitados.
 [Download](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/bsc-thesis-2019.pdf).
 
 
