@@ -7,7 +7,7 @@ I work mostly with Meta-heuristic and optimization algorithms. I also enjoy comp
 
 As an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications. 
 
-I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, you can download them =).
+I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).
 
 
 ## _Academic papers_
