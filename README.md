@@ -18,7 +18,6 @@ I mostly use C, C++, and Python. Here are also my papers, and if they are out of
 
 
 * Souza, Israel Pereira, et al. "A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem." International Conference on Computational Science and Its Applications. Cham: Springer International Publishing, 2022.
-
 [Article](https://link.springer.com/chapter/10.1007/978-3-031-10562-3_7)
 
 [Manuscript](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/MDVRP_ICCSA_2022_LNCS.pdf)
