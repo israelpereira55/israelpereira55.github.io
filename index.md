@@ -10,6 +10,25 @@
 <p align="justify">I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
 
 
+## _Education_
+
+**[currently] Ph.D in Computer Science** 2024-2027
+Federal Fluminense University
+
+
+**Master of Computer Science** 2020-2022
+Federal University of Espírito Santo
+Thesis: A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem with Time Windows
+[Download](https://repositorio.ufes.br/server/api/core/bitstreams/bc535170-c0ac-4cfd-93a0-8ee2114e5cf5/content)
+[Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/2022-thesis.pdf)
+
+
+**Bachelors of Science in Computer Science** 2015-2019
+Federal University of Espírito Santo
+Thesis: Um algoritmo https://github.com/israelpereira55/israelpereira55.github.io/edit/main/index.md
+[Download](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/bsc-thesis-2019.pdf)
+
+
 ## _Academic papers_
 
 * Souza, Israel Pereira, Maria Claudia Silva Boeres, and Renato Elias Nunes Moraes. "**A robust algorithm based on differential evolution with local search for the capacitated vehicle routing problem.**" Swarm and Evolutionary Computation 77 (2023): 101245.
