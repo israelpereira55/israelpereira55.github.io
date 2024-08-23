@@ -1,3 +1,4 @@
+Visualizar versão em [Português](./index-pt-br.md).
 
 ## _About me_
 
@@ -20,7 +21,7 @@
 _Federal University of Espírito Santo_  
 _Thesis: A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem with Time Windows._  
 [Download](https://repositorio.ufes.br/server/api/core/bitstreams/bc535170-c0ac-4cfd-93a0-8ee2114e5cf5/content).
-[Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/2022-thesis.pdf).
+[Mirror](./articles/thesis/2022-thesis.pdf).
 
 
 * **Bachelors of Science in Computer Science** _2015-2019_  
