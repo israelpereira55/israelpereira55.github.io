@@ -30,7 +30,7 @@ _As in the news, the vehicle will cost R$ 14,9 million, and 250 units were alrea
 [_January/2020 - June/2021_]  
 _Research and software development of computer vision. I entered as a Junior but I quickly became the primary developer of the company, being the major responsible in the systems development and deliverement.
 
-_I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications using neural networks such as YoLo, EfficientNet, and tracking (with my optimization techniques and that was the best part!). Also, as an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training.</p>
+_I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications using neural networks such as YoLo, EfficientNet, and tracking (with my optimization techniques and that was the best part!). Also, as an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training._
 
 _Major skills: TensorFlow, C++, Python, YoLo, EfficientNet, Pandas, Numpy._
 
