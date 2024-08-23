@@ -8,7 +8,7 @@ Show in [English](./index.md).
 *   <p align="justify">Tenho mais de 2 anos de experiência profissional desenvolvendo veículos autônomos aéreos focado no planejamento de rotas, caminhos e suavização trajetórias.</p>
 *    <p align="justify">Tenho 1,5 anos de experiência profissional trabalhando com visão computacional, detecção e tracking. Trabalhei vastamente com redes como a YoLo e EfficientNet, além de grande desenvolvimento usando OpenCV, ambos em C++ e Python.
 *    <p align="justify"> Estou sempre buscando as melhores ténicas e estratégias da literatura e também tento colaborar com as minhas próprias estratégias nos projetos.</p>
-*    <p align="justify">Propus um algoritmo que atingiu o estado da arte para solucionar o CVRP. O trabalho foi publicado entre as 10 melhores revistas da computação no rank do Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto! =D</p>
+*    <p align="justify">Propus um algoritmo que atingiu o estado da arte para solucionar o CVRP. O trabalho foi publicado entre as 10 melhores revistas da computação no rank do Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto!</p>
 
 
 <p align="justify">Eu utilizo majoritariamente C, C++ e Python nos meus projetos. Aqui também estão meus artigos e se eles estiverem fora do período de embargo, apresentarei também os manuscritos! =)</p>
@@ -22,7 +22,7 @@ Contato: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
 _Pesquisa e desenvolvimento de software para veículos autônomos aéreos. Trabalho em colaboração com a EMBRAER para desenvolvimento do eVTOL. Meu trabalho tem por foco estratégias de otimização e desenvolvimento do planejamento de rotas, caminhos e suavização de trajetórias para veículos autônomos aéreos._
 
 _O projeto também foi noticiado:_ [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
-_Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram vendidas até Maio/24._
+_Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram vendidas em Maio/24._
 
 * [**Desenvolvedor de Visão Computacional**] | [_Start Tech Solução em Tecnologia LTDA_]  
 [_Jan/2020 - Jun/2021_]  
