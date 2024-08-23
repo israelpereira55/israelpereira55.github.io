@@ -12,7 +12,7 @@ Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram
 <p align="justify">Eu também admiro a área de visão computacional e tenho 1,5 anos de experiência profissional. Entre vários trabalhos que não posso dizer, desenvolvi diversos sistemas que utilizaram redes neurais, teoria dos grafos e algoritmos de otimização para aplicações em tempo real usando redes como YoLo, EfficientNet e tracking (também utilizando minhas estratégias de otimização e essa foi a melhor parte!).
 Como um amante da otimização, eu realmente aproveitei ter buscado por estratégias do estado da arte para melhorar a performance do modelo e atingir treinamentos melhores.</p>
 
-<p align="justify">Minhas pesquisam envolvem principalmente algoritmos de otimização e meta-heurísticas. Entre meus trabalhos, propus um algoritmo que atingiu o estado da arte para solução do CVRP, em conjunto com meus orientadores.
+<p align="justify">Minhas pesquisas envolvem principalmente algoritmos de otimização e meta-heurísticas. Entre meus trabalhos, propus um algoritmo que atingiu o estado da arte para solução do CVRP, em conjunto com meus orientadores.
 O trabalho foi publicado entre as 10 melhores revistas da computação ranqueadas pelo Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto! =D</p>
 
 <p align="justify">Eu utilizo majoritariamente C, C++ e Python nos meus projetos. Aqui também estão meus artigos e se eles estiverem fora do período de embargo, apresentarei também os manuscritos! =)</p>
@@ -22,7 +22,7 @@ O trabalho foi publicado entre as 10 melhores revistas da computação ranqueada
 
 * [**Desenvolvedor de Otimização e Inteligência Artificial**] | [Motora Tecnologia]  
 [_Fev/2022 - Ago/2024_]  
-_Pesquisa e desenvolvimento de software para veículos autônomos aéreos. Trabalho em colaboração com a EMBRAER para desenvolvimento do eVTOL. Meu trabalho tem por foco estratégias de otimização e desenvolvimento do planejamento de rota, caminhos e suavização de trajetórias para veículos autônomos aéreos._
+_Pesquisa e desenvolvimento de software para veículos autônomos aéreos. Trabalho em colaboração com a EMBRAER para desenvolvimento do eVTOL. Meu trabalho tem por foco estratégias de otimização e desenvolvimento do planejamento de rotas, caminhos e suavização de trajetórias para veículos autônomos aéreos._
 
 
 * [**Desenvolvedor de Visão Computacional**] | [_Start Tech Solução em Tecnologia LTDA_]  
@@ -58,7 +58,7 @@ _TCC: Um algoritmo baseado em Evolução Diferencial com Busca Local para o Prob
 _Linguagem: C_
 
 CDELS é open-source: [artigo](https://www.sciencedirect.com/science/article/pii/S2210650223000196), [código fonte](https://github.com/israelpereira55/CDELS).  
-<p align="justify">CDELS é um algoritmo robusto para solucional o Problema de Roteamento de Veículos Capacidados   
+<p align="justify">CDELS é um algoritmo robusto para solucionar o Problema de Roteamento de Veículos Capacitados   
 CDELS is a robust algorithm to solve the Capacitated Vehicle Routing Problem com altíssima performance. O código é antigo, mas planejo trazer uma versão utilizando C++ moderno!</p>
 
 
