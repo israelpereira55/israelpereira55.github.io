@@ -17,6 +17,7 @@ O trabalho foi publicado entre as 10 melhores revistas da computação ranqueada
 
 <p align="justify">Eu utilizo majoritariamente C, C++ e Python nos meus projetos. Aqui também estão meus artigos e se eles estiverem fora do período de embargo, apresentarei também os manuscritos! =)</p>
 
+Contato: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
 
 ## _Experiência_
 
@@ -83,7 +84,7 @@ Também [open-source](https://github.com/israelpereira55/MDVRPTW)! =)
 
 > Startup campeã: Agrofácil
 
-<p align="justify">Em apenas um semestre, criamos uma startup para automatizar a geração de notas fiscais eletrônicas para agricultores, pois em alguns anos seria proibido a geração apenas manual. Atingimos o primeiro lugar no evento, obtendo o prêmio de U$10 mil dólares serviços da Amazon, além de assessoria para aceleração e outras bonificações.</p>  
+<p align="justify">Em apenas um semestre criamos uma startup para automatizar a geração de notas fiscais eletrônicas para agricultores, pois em alguns anos seria proibido a geração apenas manual. Atingimos o primeiro lugar no evento, obtendo o prêmio de U$10 mil dólares serviços da Amazon, além de assessoria para aceleração e outras bonificações.</p>  
 
 [Material no Radar Digital](https://radardigital.net/noticias/ecossistema-de-inovacao-capixaba-realiza-o-2o-demoday-na-ufes/). [Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/news/agrofacil/radardigital.pdf).  
 [Matéria na Revista UFES](https://www.ufes.br/conteudo/startup-agrofacil-vence-o-primeiro-demoday-de-2019). [Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/news/agrofacil/revistaufes.pdf).
