@@ -9,11 +9,11 @@ Visualizar em [Português](./index-pt-br.md).
 The project was also presented in the news: [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
 As in the news, the vehicle will cost R$ 14,9 million, and 250 units were already sold in May/24.
   
-<p align="justify">I also enjoy computer vision and have two years of professional experience. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications using neural networks such as YoLo, EfficientNet, and tracking (with my optimization techniques and that was the best part!). Also, as an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training.</p>
+<p align="justify">I also enjoy computer vision and have 1,5 years of professional experience. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications using neural networks such as YoLo, EfficientNet, and tracking (with my optimization techniques and that was the best part!). Also, as an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training.</p>
 
 <p align="justify">My research is mostly about optimization algorithms and meta-heuristics. Lately, I have been able to propose a state-of-the-art algorithm for the CVRP in conjunction with my supervisors. The paper was published among the ten best-ranked journals in Computer Science on the Scopus ranking that year. The algorithm is called CDELS and it was also published open-source! =D</p>
 
-<p align="justify">I mostly use C, C++, and Python. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
+<p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
 
 
 ## _Experience_
