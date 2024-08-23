@@ -55,9 +55,9 @@ _TCC: Um algoritmo baseado em Evolução Diferencial com Busca Local para o Prob
 
 ## _Alguns projetos legais_
 
-> CDELS: um algoritmo do estado da arte, baseado na meta-heurística Evolução Diferencial, com Busca Local para solucional o CVRP.
-_Linguagem: C_
+> CDELS: um algoritmo do estado da arte, baseado na meta-heurística Evolução Diferencial com Busca Local para solucional o CVRP.
 
+_Linguagem: C_  
 CDELS é open-source: [artigo](https://www.sciencedirect.com/science/article/pii/S2210650223000196), [código fonte](https://github.com/israelpereira55/CDELS).  
 <p align="justify">CDELS é um algoritmo robusto para solucionar o Problema de Roteamento de Veículos Capacitados   
 CDELS is a robust algorithm to solve the Capacitated Vehicle Routing Problem com altíssima performance. O código é antigo, mas planejo trazer uma versão utilizando C++ moderno!</p>
