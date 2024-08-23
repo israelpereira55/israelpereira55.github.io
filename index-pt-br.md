@@ -26,7 +26,7 @@ _Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já fora
 
 * [**Desenvolvedor de Visão Computacional**] | [_Start Tech Solução em Tecnologia LTDA_]  
 [_Jan/2020 - Jun/2021_]  
-_Pesquisa e desenvolvimento de software para visão computacional. Entrei como Desenvolvedor Júnior, mas rapidamente me tornei o desenvolvedor primário da empresa, sendo o principal responsável no desenvolvimento e entrega dos sistemas.
+_Pesquisa e desenvolvimento de software para visão computacional. Entrei como Desenvolvedor Júnior, mas rapidamente me tornei o desenvolvedor primário da empresa, sendo o principal responsável no desenvolvimento e entrega dos sistemas._
 
 _Desenvolvi diversos sistemas que utilizaram redes neurais, teoria dos grafos e algoritmos de otimização para aplicações em tempo real usando redes como YoLo, EfficientNet e tracking (também utilizando minhas estratégias de otimização e essa foi a melhor parte!).
 Como um amante da otimização, eu realmente aproveitei ter buscado por estratégias do estado da arte para melhorar a performance do modelo e atingir treinamentos melhores._
