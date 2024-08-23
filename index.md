@@ -15,6 +15,8 @@ As in the news, the vehicle will cost R$ 14,9 million, and 250 units were alread
 
 <p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
 
+Contact: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
+
 
 ## _Experience_
 
@@ -74,3 +76,12 @@ Also [open-source](https://github.com/israelpereira55/MDVRPTW)! =)
 [Article](https://link.springer.com/chapter/10.1007/978-3-031-10562-3_7).
 [Manuscript](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/MDVRP_ICCSA_2022_LNCS.pdf).
 
+
+## _Awards_
+
+> Winner Startup: Agrofácil
+
+<p align="justify">In just one semester we have created a startup for online invoice emission for rural workers because in a few years online emission for rural workers would become mandatory in our country. We achieved first place in the event, obtaining U$10 thousand dollars in Amazon services, among free consultancy services and other prizes.</p>  
+
+[News on Radar Digital](https://radardigital.net/noticias/ecossistema-de-inovacao-capixaba-realiza-o-2o-demoday-na-ufes/). [Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/news/agrofacil/radardigital.pdf).  
+[News on Revista UFES](https://www.ufes.br/conteudo/startup-agrofacil-vence-o-primeiro-demoday-de-2019). [Mirror](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/news/agrofacil/revistaufes.pdf).
