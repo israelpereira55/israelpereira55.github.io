@@ -2,7 +2,7 @@ Visualizar em [Português](./index-pt-br.md).
 
 ## _About me_
 
-<p align="justify">A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF.</p>
+<p align="justify">A brief about me because nobody likes too much text: I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF.</p>
 
 <p align="justify">Currently, I work with autonomous aerial vehicles focused on the route, path planning, and smooth trajectories. I'm always looking for the best strategies in literature and I also bring my optimization techniques as much as I can.</p> 
 
@@ -51,13 +51,15 @@ _Thesis: Um algoritmo baseado em Evolução Diferencial com Busca Local para o P
 
 ## _Some cool projects_
 
-> CDELS: a state-of-the-art algorithm based in Differential Evolution with Local Search for the CVRP  
+> CDELS: a state-of-the-art algorithm based in Differential Evolution with Local Search for the CVRP
+
 _Language: C_  
 CDELS is given open-source: [article](https://www.sciencedirect.com/science/article/pii/S2210650223000196), [source code](https://github.com/israelpereira55/CDELS).  
 CDELS is a robust algorithm to solve the Capacitated Vehicle Routing Problem with outstanding performance. It is an old code, but I plan to bring an updated modern c++ version!
 
 
-> RGRASP+VND: a Reactive GRASP algorithm for the Multi-depot Vehicle Routing Problem with Time Windows  
+> RGRASP+VND: a Reactive GRASP algorithm for the Multi-depot Vehicle Routing Problem with Time Windows
+
 _Language: Python_  
 Also [open-source](https://github.com/israelpereira55/MDVRPTW)! =)
 
