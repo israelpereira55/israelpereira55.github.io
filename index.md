@@ -11,7 +11,7 @@ Visualizar em [Português](./index-pt-br.md).
 *    <p align="justify">I have proposed a state-of-the-art algorithm to solve the CVRP. The paper was published among the 10 best journals ranked on Scopus that year. The algorithm is called CDELS and is given open-source!</p>
 
 
-<p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
+<p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version! =).</p>
 
 Contact: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
 
