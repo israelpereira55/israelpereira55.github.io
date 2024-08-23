@@ -4,9 +4,10 @@ Visualizar em [Português](./index-pt-br.md).
 
 <p align="justify">A brief about me because nobody likes too much text. I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF.</p>
 
-<p align="justify">Currently, I work with autonomous aerial vehicles focused on the route, path planning, and smooth trajectories. I try to bring my optimization techniques as much as I can. The project was also presented in the news.</p> 
+<p align="justify">Currently, I work with autonomous aerial vehicles focused on the route, path planning, and smooth trajectories. I'm always looking for the best strategies in literature and I also bring my optimization techniques as much as I can.</p> 
 
-[Link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
+The project was also presented in the news: [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
+As in the news, the vehicle will cost R$ 14,9 million, and 250 units were already sold in May/24.
   
 <p align="justify">I also enjoy computer vision and have two years of professional experience. Out of a bunch of works that I can't tell, I've developed many systems that use both neural networks, graph theory, and optimization algorithms for real-time applications using neural networks such as YoLo, EfficientNet, and tracking (with my optimization techniques and that was the best part!). Also, as an optimization lover, I really enjoyed looking for state-of-the-art techniques to improve the model's performance and achieve better training.</p>
 
@@ -26,7 +27,7 @@ _Research and software development in autonomous vehicles. Work in collaboration
 _Research and software development of computer vision. I entered as a Junior but I quickly became the primary developer of the company, being the major responsible in the systems development and deliverement. Major skills: TensorFlow, C++, Python, YoLo, EfficientNet, Pandas, Numpy._
 
 * [**Intern**] | [_Start Tech Solução em Tecnologia LTDA_]  
-[_October/2019 - December/2019_] 
+[_October/2019 - December/2019_]
 
 
 ## _Education_
@@ -46,6 +47,19 @@ _Thesis: A Reactive GRASP Algorithm for the Multi-depot Vehicle Routing Problem 
 _Federal University of Espírito Santo_  
 _Thesis: Um algoritmo baseado em Evolução Diferencial com Busca Local para o Problema de Roteamento de Veículos Capacitados._  
 [Download](https://github.com/israelpereira55/israelpereira55.github.io/blob/main/articles/thesis/bsc-thesis-2019.pdf).
+
+
+## _Some cool projects_
+
+> CDELS: a state-of-the-art algorithm based in Differential Evolution with Local Search for the CVRP  
+_Language: C_  
+CDELS is given open-source: [article](https://www.sciencedirect.com/science/article/pii/S2210650223000196), [source code](https://github.com/israelpereira55/CDELS).  
+CDELS is a robust algorithm to solve the Capacitated Vehicle Routing Problem with outstanding performance. It is an old code, but I plan to bring an updated modern c++ version!
+
+
+> RGRASP+VND: a Reactive GRASP algorithm for the Multi-depot Vehicle Routing Problem with Time Windows  
+_Language: Python_  
+Also [open-source](https://github.com/israelpereira55/MDVRPTW)! =)
 
 
 ## _Academic papers_
