@@ -11,9 +11,6 @@ Visualizar em [Português](./index-pt-br.md).
 *    <p align="justify">I have proposed a state-of-the-art algorithm to solve the CVRP. The paper was published among the 10 best journals ranked on Scopus that year. The algorithm is called CDELS and is given open-source!</p>
 
 
-<p align="justify">Currently, I work with autonomous aerial vehicles focused on the route, path planning, and smooth trajectories. I'm always looking for the best strategies in literature and I also bring my optimization techniques as much as I can.</p> 
-
-
 <p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version =).</p>
 
 Contact: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
