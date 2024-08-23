@@ -4,16 +4,12 @@ Show in [English](./index.md).
 
 <p align="justify">Um resumo rápido sobre mim porque ninguém gosta de muito texto: sou um pesquisador que ama otimização. Estou fazendo meu doutorado em Ciência da Computação na UFF.</p>
 
-<p align="justify">Atualmente trabalho com veículos autônomos aéreos focado no planejamento de rotas, caminhos e trajetórias suaves. Estou sempre buscando as melhores estratégias na literatura e também tento trazer as minhas estratégias de otimização sempre que possível.</p> 
 
-O projeto também foi noticiado: [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
-Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram vendidas até Maio/24.
-  
-<p align="justify">Eu também admiro a área de visão computacional e tenho 1,5 anos de experiência profissional. Entre vários trabalhos que não posso dizer, desenvolvi diversos sistemas que utilizaram redes neurais, teoria dos grafos e algoritmos de otimização para aplicações em tempo real usando redes como YoLo, EfficientNet e tracking (também utilizando minhas estratégias de otimização e essa foi a melhor parte!).
-Como um amante da otimização, eu realmente aproveitei ter buscado por estratégias do estado da arte para melhorar a performance do modelo e atingir treinamentos melhores.</p>
+*   <p align="justify">Tenho mais de 2 anos de experiência profissional desenvolvendo veículos autônomos aéreos focado no planejamento de rotas, caminhos e suavização trajetórias.</p>
+*    <p align="justify">Tenho 1,5 anos de experiência profissional trabalhando com visão computacional, detecção e tracking. Trabalhei vastamente com redes como a YoLo e EfficientNet, além de grande desenvolvimento usando OpenCV, ambos em C++ e Python.
+*    <p align="justify"> Estou sempre buscando as melhores ténicas e estratégias da literatura e também tento colaborar com as minhas próprias estratégias nos projetos.</p>
+*    <p align="justify">Propus um algoritmo que atingiu o estado da arte para solucionar o CVRP. O trabalho foi publicado entre as 10 melhores revistas da computação no rank do Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto! =D</p>
 
-<p align="justify">Minhas pesquisas envolvem principalmente algoritmos de otimização e meta-heurísticas. Entre meus trabalhos, propus um algoritmo que atingiu o estado da arte para solução do CVRP, em conjunto com meus orientadores.
-O trabalho foi publicado entre as 10 melhores revistas da computação ranqueadas pelo Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto! =D</p>
 
 <p align="justify">Eu utilizo majoritariamente C, C++ e Python nos meus projetos. Aqui também estão meus artigos e se eles estiverem fora do período de embargo, apresentarei também os manuscritos! =)</p>
 
@@ -25,10 +21,17 @@ Contato: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
 [_Fev/2022 - Ago/2024_]  
 _Pesquisa e desenvolvimento de software para veículos autônomos aéreos. Trabalho em colaboração com a EMBRAER para desenvolvimento do eVTOL. Meu trabalho tem por foco estratégias de otimização e desenvolvimento do planejamento de rotas, caminhos e suavização de trajetórias para veículos autônomos aéreos._
 
+_O projeto também foi noticiado:_ [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
+_Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram vendidas até Maio/24._
 
 * [**Desenvolvedor de Visão Computacional**] | [_Start Tech Solução em Tecnologia LTDA_]  
 [_Jan/2020 - Jun/2021_]  
-_Pesquisa e desenvolvimento de software para visão computacional. Entrei como Desenvolvedor Júnior, mas rapidamente me tornei o desenvolvedor primário da empresa, sendo o principal responsável no desenvolvimento e entrega dos sistemas. Principais tecnologias: TensorFlow, C++, Python, YoLo, EfficientNet, Pandas, Numpy._
+_Pesquisa e desenvolvimento de software para visão computacional. Entrei como Desenvolvedor Júnior, mas rapidamente me tornei o desenvolvedor primário da empresa, sendo o principal responsável no desenvolvimento e entrega dos sistemas.
+
+_Desenvolvi diversos sistemas que utilizaram redes neurais, teoria dos grafos e algoritmos de otimização para aplicações em tempo real usando redes como YoLo, EfficientNet e tracking (também utilizando minhas estratégias de otimização e essa foi a melhor parte!).
+Como um amante da otimização, eu realmente aproveitei ter buscado por estratégias do estado da arte para melhorar a performance do modelo e atingir treinamentos melhores._
+
+_Principais tecnologias: TensorFlow, C++, Python, YoLo, EfficientNet, Pandas, Numpy._
 
 * [**Estagiário**] | [_Start Tech Solução em Tecnologia LTDA_]  
 [_Out/2019 - Dez/2019_]
