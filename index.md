@@ -1,4 +1,4 @@
-[Visualizar versão em Português](./index-pt-br.md).
+Visualizar em [Português](./index-pt-br.md).
 
 ## _About me_
 
@@ -17,13 +17,17 @@
 
 ## _Experience_
 
-* [**Optimization Developer and Artificial Intelligence Developer**] | [Motora Tecnologia] | [_February/2022 - August/2024_]  
+* [**Optimization Developer and Artificial Intelligence Developer**] | [Motora Tecnologia]  
+[_February/2022 - August/2024_]  
 _Research and software development in autonomous vehicles. Work in collaboration with EMBRAER for the eVTOL development. My work is focused on optimization techniques and development of the route planning, path planning, and smooth trajectories for autonomous aerial vehicles._
 
-* [**Computer Vision Developer**] | [_Start Tech Solução em Tecnologia LTDA_] | [_January/2020 - June/2021_]  
+* [**Computer Vision Developer**] | [_Start Tech Solução em Tecnologia LTDA_]  
+[_January/2020 - June/2021_]  
 _Research and software development of computer vision. I entered as a Junior but I quickly became the primary developer of the company, being the major responsible in the systems development and deliverement. Major skills: TensorFlow, C++, Python, YoLo, EfficientNet, Pandas, Numpy._
 
-* [**Intern**] | [_Start Tech Solução em Tecnologia LTDA_] | [_October/2019 - December/2019_]
+* [**Intern**] | [_Start Tech Solução em Tecnologia LTDA_]  
+[_October/2019 - December/2019_] 
+
 
 ## _Education_
 
