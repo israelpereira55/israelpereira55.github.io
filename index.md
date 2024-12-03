@@ -13,7 +13,7 @@ Visualizar em [Português](./index-pt-br.md).
 
 <p align="justify">I mostly use C, C++, and Python in my projects. Here are also my papers, and if they are out of the embargo period, I will present the manuscript version! =).</p>
 
-Contact: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
+Contact: [Linkedin](https://www.linkedin.com/in/israelpsouza).
 
 
 ## _Experience_
