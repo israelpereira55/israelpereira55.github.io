@@ -13,7 +13,7 @@ Show in [English](./index.md).
 
 <p align="justify">Eu utilizo majoritariamente C, C++ e Python nos meus projetos. Aqui também estão meus artigos e se eles estiverem fora do período de embargo, apresentarei também os manuscritos! =)</p>
 
-Contato: [Linkedin](https://www.linkedin.com/in/israel-souza-06737118b).
+Contato: [Linkedin](https://www.linkedin.com/in/israelpsouza).
 
 ## _Experiência_
 
