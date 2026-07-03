@@ -5,8 +5,8 @@ Visualizar em [Português](./index-pt-br.md).
 <p align="justify">A brief about me because nobody likes too much text: I'm a researcher who loves optimization. I'm currently doing a PhD in Computer Science at UFF.</p>
 
 
-*   <p align="justify">I have 2 years of professional experience developing aerial autonomous vehicles. My work is focused on the route planning, path planning, and smooth trajectories.</p>
-*    <p align="justify">I have 1,5 years of professional experience working with computer vision, object detection, and tracking. I have vastly worked with neural networks such as YoLo and EfficientNet, and major development using OpenCV, C++, and Python.</p>
+*   <p align="justify">I have 4+ years of professional experience developing aerial autonomous vehicles. My work is focused on the route planning, path planning, and smooth trajectories.</p>
+*    <p align="justify">I have 2 years of professional experience working with computer vision, object detection, and tracking. I have vastly worked with neural networks such as YoLo and EfficientNet, and major development using OpenCV, C++, and Python.</p>
 *    <p align="justify">I'm always searching for the best techniques and strategies in literature. I also try to collaborate with my strategies in the projects.</p>
 *    <p align="justify">I have proposed a state-of-the-art algorithm to solve the CVRP. The paper was published among the 10 best journals ranked on Scopus that year. The algorithm is called CDELS and is given open-source!</p>
 
