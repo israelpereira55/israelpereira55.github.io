@@ -5,8 +5,8 @@ Show in [English](./index.md).
 <p align="justify">Um resumo rápido sobre mim porque ninguém gosta de muito texto: sou um pesquisador que ama otimização. Estou fazendo meu doutorado em Ciência da Computação na UFF.</p>
 
 
-*   <p align="justify">Tenho mais de 2 anos de experiência profissional desenvolvendo veículos autônomos aéreos focado no planejamento de rotas, caminhos e suavização trajetórias.</p>
-*    <p align="justify">Tenho 1,5 anos de experiência profissional trabalhando com visão computacional, detecção e tracking. Trabalhei vastamente com redes como a YoLo e EfficientNet, além de grande desenvolvimento usando OpenCV, ambos em C++ e Python.
+*   <p align="justify">Tenho mais de 4 anos de experiência profissional desenvolvendo veículos autônomos aéreos focado no planejamento de rotas, caminhos e suavização trajetórias.</p>
+*    <p align="justify">Tenho 2 anos de experiência profissional trabalhando com visão computacional, detecção e tracking. Trabalhei vastamente com redes como a YoLo e EfficientNet, além de grande desenvolvimento usando OpenCV, ambos em C++ e Python.
 *    <p align="justify"> Estou sempre buscando as melhores ténicas e estratégias da literatura e também tento colaborar com as minhas próprias estratégias nos projetos.</p>
 *    <p align="justify">Propus um algoritmo que atingiu o estado da arte para solucionar o CVRP. O trabalho foi publicado entre as 10 melhores revistas da computação no rank do Scopus naquele ano. O algoritmo se chama CDELS e está disponibilizado em código aberto!</p>
 
@@ -18,14 +18,14 @@ Contato: [Linkedin](https://www.linkedin.com/in/israelpsouza).
 ## _Experiência_
 
 * [**Desenvolvedor de Otimização e Inteligência Artificial**] | [Motora Tecnologia]  
-[_Fev/2022 - Ago/2024_]  
+[_2022 - 2024_]  
 _Pesquisa e desenvolvimento de software para veículos autônomos aéreos. Trabalho em colaboração com a EMBRAER para desenvolvimento do eVTOL. Meu trabalho tem por foco estratégias de otimização e desenvolvimento do planejamento de rotas, caminhos e suavização de trajetórias para veículos autônomos aéreos._
 
 _O projeto também foi noticiado:_ [link](https://tribunaonline.com.br/economia/tecnologia-capixaba-no-carro-voador-da-embraer-139290).
 _Como na matéria, o veículo custará R$: 14,9 milhões e 250 unidades já foram vendidas em Maio/24._
 
 * [**Desenvolvedor de Visão Computacional**] | [_Start Tech Solução em Tecnologia LTDA_]  
-[_Jan/2020 - Jun/2021_]  
+[_2020 - 2021_]  
 _Pesquisa e desenvolvimento de software para visão computacional. Entrei como Desenvolvedor Júnior, mas rapidamente me tornei o desenvolvedor primário da empresa, sendo o principal responsável no desenvolvimento e entrega dos sistemas._
 
 _Desenvolvi diversos sistemas que utilizaram redes neurais, teoria dos grafos e algoritmos de otimização para aplicações em tempo real usando redes como YoLo, EfficientNet e tracking (também utilizando minhas estratégias de otimização e essa foi a melhor parte!).
